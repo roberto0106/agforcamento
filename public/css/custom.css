@@ -1,0 +1,10 @@
+.no-border {
+    outline: 0;
+    border-width: 0 0 1px;
+}
+
+.no-border:focus{
+    outline: 0;
+    border-width: 0 0 1px;
+}
+
